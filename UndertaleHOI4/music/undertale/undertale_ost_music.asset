@@ -1,0 +1,162 @@
+
+# MAIN THEME
+music = {
+	name = "once_upon_a_time"
+	file = "mus_story.ogg"
+	volume = 0.65
+}
+
+# General Peace:
+music = {
+	name = "bird_song"
+	file = "mus_birdsong.ogg"
+	volume = 0.65
+}
+music = {
+	name = "star"
+	file = "mus_star.ogg"
+	volume = 0.65
+}
+music = {
+	name = "toriel"
+	file = "mus_toriel.ogg"
+	volume = 0.65
+}
+
+# General war:
+music = {
+	name = "battle1"
+	file = "mus_battle1.ogg"
+	volume = 0.65
+}
+music = {
+	name = "ending"
+	file = "mus_z_ending.ogg"
+	volume = 0.65
+}
+
+
+# Allies Peace:
+music = {
+	name = "ruins"
+	file = "mus_ruins.ogg"
+	volume = 0.65
+}
+music = {
+	name = "reunited"
+	file = "mus_reunited.ogg"
+	volume = 0.65
+}
+
+
+# Allies War:
+music = {
+	name = "hopes_and_dreams"
+	file = "mus_xpart.ogg"
+	volume = 0.65
+}
+music = {
+	name = "hopes_and_dreams2"
+	file = "mus_express_myself.ogg"
+	volume = 0.65
+}
+
+
+# Axis Peace:
+music = {
+	name = "waterfall"
+	file = "mus_waterfall.ogg"
+	volume = 0.65
+}
+music = {
+	name = "ruins_piano"
+	file = "mus_ruinspiano.ogg"
+	volume = 0.65
+}
+
+
+# Axis War:
+music = {
+	name = "bergentruckung"
+	file = "mus_bergentruckung.ogg"
+	volume = 0.65
+}
+music = {
+	name = "megalovania"
+	file = "zz_megalovania.ogg"
+	volume = 0.65
+}
+music = {
+	name = "bonetrousle"
+	file = "mus_papyrusboss.ogg"
+	volume = 0.65
+}
+music = {
+	name = "finale2"
+	file = "mus_finale2.ogg"
+	volume = 0.65
+}
+
+
+# Comintern Peace:
+
+music = {
+	name = "wrongworld"
+	file = "mus_wrongworld.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "small_shock"
+	file = "mus_smallshock.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "papyrus_theme"
+	file = "mus_papyrus.ogg"
+	volume = 0.65
+}
+
+# Comintern War:
+
+music = {
+	name = "mettaton_ex"
+	file = "mus_mettaton_ex.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "mettaton_neo"
+	file = "mus_mettaton_neo.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "mus_boss1"
+	file = "mus_mettatonbattle.ogg"
+	volume = 0.65
+}
+
+# La Resistance:
+
+music = {
+	name = "anothermedium"
+	file = "mus_anothermedium.ogg"
+	volume = 0.65
+}
+music = {
+	name = "amalgam"
+	file = "mus_amalgam.ogg"
+	volume = 0.65
+}
+music = {
+	name = "battle2"
+	file = "mus_battle2.ogg"
+	volume = 0.65
+}
+music = {
+	name = "dogshrine"
+	file = "mus_dogshrine_1.ogg"
+	volume = 0.65
+}
