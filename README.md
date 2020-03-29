@@ -3,6 +3,7 @@ A Undertale Overhaul Mod for Hearts of Iron IV - https://store.steampowered.com/
 
 FEEL FREE TO FORK AND USE PARTLY IN YOUR OWN MOD(S) - Just don't copy completely and DM me on discord - MonoRainbowKappa#1689 regarding reposting on new sites!
 
+Link - https://steamcommunity.com/sharedfiles/filedetails/?id=2039496139
 Steam Workshop Desc :
 - EARLY WIP!! -
 Project LV - Overhaul mod to bring Undertale's World and Lore into HOI4!
